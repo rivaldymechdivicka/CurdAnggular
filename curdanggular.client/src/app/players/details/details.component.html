@@ -1,0 +1,27 @@
+<div class="container">
+  <br />
+  <h3>Player Details</h3>
+  <br />
+  <div class="card">
+    <div class="card-header">
+      <div class="row">
+        <div class="col">
+          <!-- Menampilkan nama pemain jika tersedia -->
+          <h4 *ngIf="player">{{ player.name }}</h4>
+          <!-- Menampilkan pesan jika data pemain tidak tersedia -->
+          <p *ngIf="!player">Loading player details...</p>
+        </div>
+        <div class="col text-right">
+          <a routerLink="/players/list" class="btn btn-secondary btn-sm">Back To Players List</a>
+        </div>
+      </div>
+    </div>
+    <ul class="list-group list-group-flush">  
+      <li class="list-group-item" *ngIf="player"><b>Id:</b> {{ player.id }}</li>
+      <li class="list-group-item" *ngIf="player"><b>Shirt No:</b> {{ player.shirtNo }}</li>
+      <li class="list-group-item" *ngIf="player"><b>Position:</b> {{ player.position?.name }}</li>
+      <li class="list-group-item" *ngIf="player"><b>Appearances:</b> {{ player.appearances }}</li>
+      <li class="list-group-item" *ngIf="player"><b>Goals:</b> {{ player.goals }}</li>
+    </ul>
+  </div>
+</div>

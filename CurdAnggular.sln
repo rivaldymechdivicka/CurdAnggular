@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurdAnggular.Server", "CurdAnggular.Server\CurdAnggular.Server.csproj", "{8B588DCD-FB5D-4FE2-9503-16BCC955B595}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "curdanggular.client", "curdanggular.client\curdanggular.client.esproj", "{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B588DCD-FB5D-4FE2-9503-16BCC955B595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B588DCD-FB5D-4FE2-9503-16BCC955B595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B588DCD-FB5D-4FE2-9503-16BCC955B595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B588DCD-FB5D-4FE2-9503-16BCC955B595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D17560-1D78-4439-97AF-8CB699640604}
+	EndGlobalSection
+EndGlobal

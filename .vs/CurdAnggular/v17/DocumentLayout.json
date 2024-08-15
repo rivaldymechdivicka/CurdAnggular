@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|c:\\users\\rmehd\\source\\repos\\curdanggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|solutionrelative:curdanggular.client\\src\\app\\players\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|c:\\users\\rmehd\\source\\repos\\curdanggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|solutionrelative:curdanggular.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|c:\\users\\rmehd\\source\\repos\\curdanggular\\curdanggular.client\\src\\app\\players\\details\\details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|solutionrelative:curdanggular.client\\src\\app\\players\\details\\details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|c:\\users\\rmehd\\source\\repos\\curdanggular\\curdanggular.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|solutionrelative:curdanggular.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|c:\\users\\rmehd\\source\\repos\\curdanggular\\curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F4E4B33-8FAE-4ADB-9835-4E7941759A3A}|curdanggular.client\\curdanggular.client.esproj|solutionrelative:curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nav-menu.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "RelativeDocumentMoniker": "curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "ToolTip": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "RelativeToolTip": "curdanggular.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T07:42:07.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit.component.css",
+              "DocumentMoniker": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.css",
+              "RelativeDocumentMoniker": "curdanggular.client\\src\\app\\players\\edit\\edit.component.css",
+              "ToolTip": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.css",
+              "RelativeToolTip": "curdanggular.client\\src\\app\\players\\edit\\edit.component.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-15T03:39:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "curdanggular.client\\src\\app\\players\\edit\\edit.component.html",
+              "ToolTip": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeToolTip": "curdanggular.client\\src\\app\\players\\edit\\edit.component.html",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T03:39:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "details.component.css",
+              "DocumentMoniker": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\details\\details.component.css",
+              "RelativeDocumentMoniker": "curdanggular.client\\src\\app\\players\\details\\details.component.css",
+              "ToolTip": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\details\\details.component.css",
+              "RelativeToolTip": "curdanggular.client\\src\\app\\players\\details\\details.component.css",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-15T03:32:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "details.component.html",
+              "DocumentMoniker": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeDocumentMoniker": "curdanggular.client\\src\\app\\players\\details\\details.component.html",
+              "ToolTip": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\curdanggular.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeToolTip": "curdanggular.client\\src\\app\\players\\details\\details.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T03:31:31.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

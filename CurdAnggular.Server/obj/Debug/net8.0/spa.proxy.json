@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\rmehd\\source\\repos\\CurdAnggular\\CurdAnggular.Server\\..\\curdanggular.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,6 @@
+@CurdAnggular.Server_HostAddress = http://localhost:5147
+
+GET {{CurdAnggular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
